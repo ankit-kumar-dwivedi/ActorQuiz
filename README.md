@@ -1,5 +1,5 @@
 # ActorQuiz
-AuthorQuiz App is a beg
+AuthorQuiz App is a Beginner Web Application. After learning the basics of Reactjs.
 This project was bootstrapped with Create React App.
 
 It implements Bootstrap 4 forn styling using version 16.4.1 of React and ES6.
