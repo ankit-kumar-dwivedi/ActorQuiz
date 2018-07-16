@@ -19,9 +19,9 @@ create-react-app
 
 ### Installing
 
-Download the project 
-Get into the project folder
-Open cmd and type in the following command
+Download the project--> 
+Get into the project folder -->
+Open cmd and type in the following command.
 
 ```
 npm start
