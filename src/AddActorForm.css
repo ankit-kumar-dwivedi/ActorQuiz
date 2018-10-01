@@ -1,12 +1,12 @@
-.AddActorForm{
-  width: 80%;
-  margin :50px 10%;
+.AddActorForm {
+	width: 80%;
+	margin: 50px 10%;
 }
 
-.AddActorForm__input{
-  margin-bottom: 20px;
+.AddActorForm__input {
+	margin-bottom: 20px;
 }
 
-.AddActorForm__input > label{
-  display: block;
+.AddActorForm__input>label {
+	display: block;
 }
