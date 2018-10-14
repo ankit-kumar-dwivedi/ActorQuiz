@@ -32,7 +32,7 @@ function Turn({actor,movies,highlight,onAnswerSelected}){
       <div className="col-4 offset-1">
         <img src={actor.imageUrl} className="actorimage" alt="Actor"/>
       </div>
-      <div className="col-6">
+      <div className="col6">
         {movies.map((title)=> <Movie title={title} key={title} onClick={onAnswerSelected}/>)}
       </div>
     </div>
