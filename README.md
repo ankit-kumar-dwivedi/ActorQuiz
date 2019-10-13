@@ -1,5 +1,5 @@
-# ActorQuiz
-# https://actorquiz.herokuapp.com/
+# ActorQuiz - https://actorquiz.herokuapp.com/
+
 AuthorQuiz App is a Beginner Web Application. After learning the basics of Reactjs.
 This project was bootstrapped with [create-react-app](https://github.com/facebook/create-react-app).
 
